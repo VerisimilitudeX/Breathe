@@ -1,5 +1,5 @@
 # Breathe
-Breathe in, breathe out, and relax with our mindfulness app. Stopping, relaxing, and practicing mindfulness throughout the day can help reduce stress and enhance overall health. This software, Breathe, keeps you centered by guiding you through a sequence of deep, relaxing breaths.
+Breathe in, breathe out, and relax with this mindfulness app. Stopping, relaxing, and practicing mindfulness throughout the day can help reduce stress and enhance overall health. This software, Breathe, keeps you centered by guiding you through a sequence of deep, relaxing breaths.
 ## Features
 - Follow the animation as it expands and contracts with each breath and exhale.
 - Increase or decrease the duration of the Breathe session from 1 to 5 minutes.
